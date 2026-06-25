@@ -29,8 +29,6 @@ Aplikasi ini menggunakan konsep estetika **Glassmorphic Design Layer** dengan sk
 | --- | --- |
 | <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=600&q=80" width="100%" alt="Dashboard Preview"/> | <img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=600&q=80" width="100%" alt="Master Data Preview"/> |
 
-> *Catatan: Ganti tautan gambar di atas dengan screenshot aplikasi milikmu yang tersimpan di dalam repositori (misal: `assets/screenshot1.png`).*
-
 ---
 
 ## 🛠️ Teknologi & Arsitektur Sistem
